@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gitbrett
 - 👀 I’m interested in ... understanding how to make cahnges, access information, and have confidence that only I am privy to my device and functions. I am concerned that monitoring is going on, and that I do not have the control the average user might.
 - 🌱 I’m currently learning ... what i need to learn vs whats extra and unnecessary
-- 💞️ I’m looking to collaborate on ... i ahve no skills
+- 💞️ I’m looking to collaborate on ... i have no skills
 - 📫 How to reach me ... brett.day.alan@gmail.com
 
 <!---
