@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gitbrett
-- 👀 I’m interested in ... understanding how to make cahnges, access information, and have confidence that only I am privy to my device and functions. 
+- 👀 I’m interested in ... gaining a rudimentary efficacy using term8nal environment togo where I please and see what lever is wherever within y home network.
 - 🌱 I’m currently learning where my interest goes 
-- 💞️ I’m looking to collaborate on ... i have no skills
+- 💞️ I’m looking to collaborate on you teaching me code of your choice and terminal... i have little no skills unless u count basic TI83 :D
 - 📫 How to reach me ... brett.day.alan@gmail.com
 
 <!---
